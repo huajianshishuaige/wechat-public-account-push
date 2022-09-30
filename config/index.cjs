@@ -90,7 +90,7 @@ const USER_CONFIG = {
           type: '生日', name: '华建', year: '1999', date: '04-08',
         },
         {
-          type: '节日', name: '被搭讪纪念日', year: '2019', date: '10-16',
+          type: '节日', name: '被搭讪纪念日', year: '2017', date: '08-16',
         }
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
